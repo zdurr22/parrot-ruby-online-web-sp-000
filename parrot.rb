@@ -3,8 +3,9 @@
 def parrot(phrase)
   puts "Squawk!"
   return "Squawk!"
-  if phrase == nil
+    if phrase == nil
     puts "Squawk!"
-  else
+    else
     puts "#{phrase}"
+    end
 end
