@@ -3,4 +3,3 @@
 def parrot
   returns "Squawk!"
 end
-
